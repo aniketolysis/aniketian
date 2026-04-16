@@ -34,4 +34,4 @@ modules:
           - org.qbittorrent.qBittorrent
           - org.onlyoffice.desktopeditors
 
-  - type: signing
+
